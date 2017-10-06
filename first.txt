@@ -1,2 +1,4 @@
 trial github
 trial workflow
+git add
+git commit
